@@ -1,4 +1,4 @@
-package com.drivers.dto;
+package com.process.dto;
 
 
 import com.fasterxml.jackson.annotation.JsonFormat;
@@ -13,15 +13,14 @@ import java.time.LocalDateTime;
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-public class GeopositionDto {
+public class RecordDto {
 
-    Integer driverId;
-
-    @JsonFormat(pattern = "yyyy-MM-dd'T'HH:mm:ss")
-    LocalDateTime coordinateDeterminationTime;
+    Long id;
+    Long driverId;
     Double latitude;
     Double longitude;
 
-
+    @JsonFormat(pattern = "yyyy-MM-dd'T'HH:mm:ss")
+    LocalDateTime recordDateTime;
 
 }

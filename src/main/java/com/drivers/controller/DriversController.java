@@ -17,7 +17,6 @@ public class DriversController {
 
     @PostMapping("/add/")
     public DriverDto addDriver(@RequestBody NewDriverDto newDriver) {
-        System.out.println("here");
         return driversService.addNewDriver(newDriver);
     }
 

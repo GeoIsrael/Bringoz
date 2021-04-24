@@ -18,7 +18,6 @@ public class DriversServiceImpl implements DriversService{
 
     @Override
     public DriverDto addNewDriver(NewDriverDto newDriver) {
-        System.out.println(newDriver.getFirstName());
         Driver driver = new Driver(newDriver.getFirstName(), newDriver.getLastName(),
                 newDriver.getAge(), newDriver.getAddress(), newDriver.getDriversLicense());
         driver = driversRepository.save(driver);
