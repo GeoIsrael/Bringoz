@@ -16,7 +16,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Component
-public class JsonLoader {
+public class JsonParser {
 
     @Autowired
     RouteGenerator routeGenerator;
