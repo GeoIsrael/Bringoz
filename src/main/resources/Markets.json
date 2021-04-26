@@ -1,0 +1,1648 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.9 76e5016d",
+  "osm3s": {
+    "timestamp_osm_base": "2021-04-24T05:32:13Z",
+    "timestamp_areas_base": "2021-04-24T04:53:41Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 345344098,
+  "lat": 32.0800282,
+  "lon": 34.7691747,
+  "tags": {
+    "name": "4 Food",
+    "name:en": "4 Food",
+    "name:fa": "۴ فود",
+    "opening_hours": "24/7",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 347264676,
+  "lat": 32.0760878,
+  "lon": 34.7683145,
+  "tags": {
+    "brand": "AM:PM",
+    "brand:wikidata": "Q6891113",
+    "brand:wikipedia": "he:רשת AM:PM",
+    "name": "AM:PM",
+    "name:en": "AM:PM",
+    "name:he": "AM:PM",
+    "opening_hours": "24/7",
+    "shop": "supermarket",
+    "website": "https://www.ampm.co.il/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 347264720,
+  "lat": 32.0727868,
+  "lon": 34.7689881,
+  "tags": {
+    "brand": "AM:PM",
+    "brand:wikidata": "Q6891113",
+    "brand:wikipedia": "he:רשת AM:PM",
+    "name": "AM:PM",
+    "name:en": "AM:PM",
+    "name:he": "AM:PM",
+    "opening_hours": "24/7",
+    "shop": "supermarket",
+    "website": "https://www.ampm.co.il/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 454384412,
+  "lat": 32.0861314,
+  "lon": 34.7701888,
+  "tags": {
+    "addr:city:en": "Tel Aviv",
+    "name": "Shiroko",
+    "name:en": "Shiroko",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 454907322,
+  "lat": 32.0850669,
+  "lon": 34.7727585,
+  "tags": {
+    "addr:city:en": "Tel Aviv",
+    "name:en": "In the City",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 654058033,
+  "lat": 32.0951459,
+  "lon": 34.7784857,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "ישעיהו",
+    "name": "סופר באבא",
+    "name:en": "Super Baba",
+    "name:he": "סופר באבא",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 735849810,
+  "lat": 32.0861707,
+  "lon": 34.7775315,
+  "tags": {
+    "name": "טבע קסטל",
+    "name:en": "Teva Kastel",
+    "name:he": "טבע קסטל",
+    "organic": "only",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 764107908,
+  "lat": 32.0466260,
+  "lon": 34.8042061,
+  "tags": {
+    "name": "שלהבת",
+    "name:en": "Shalhevet",
+    "name:he": "שלהבת",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 777400968,
+  "lat": 32.0798698,
+  "lon": 34.7815187,
+  "tags": {
+    "brand": "Tiv Ta'am",
+    "brand:wikidata": "Q2903718",
+    "brand:wikipedia": "en:Tiv Ta'am",
+    "name": "טיב טעם",
+    "name:en": "Tiv Ta'am",
+    "name:he": "טיב טעם",
+    "name:ru": "Тив Та'ам",
+    "shop": "supermarket",
+    "website": "https://www.tivtaam.co.il"
+  }
+},
+{
+  "type": "node",
+  "id": 883472051,
+  "lat": 32.0337288,
+  "lon": 34.7451078,
+  "tags": {
+    "name": "סופר חצות וחצי",
+    "name:he": "סופר חצות וחצי",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 883472068,
+  "lat": 32.0344147,
+  "lon": 34.7458181,
+  "tags": {
+    "name": "סופר רוסקי דליקטס",
+    "name:en": "Super Ruski Delikates",
+    "name:he": "סופר רוסקי דליקטס",
+    "name:ru": "Супер Русский Деликатес",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 947439222,
+  "lat": 32.0949103,
+  "lon": 34.7786417,
+  "tags": {
+    "name": "סופר באבא הגדול",
+    "name:en": "Big Super Baba",
+    "name:he": "סופר באבא הגדול",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 950284098,
+  "lat": 32.0914274,
+  "lon": 34.7826309,
+  "tags": {
+    "brand": "Shufersal",
+    "brand:wikidata": "Q4523181",
+    "brand:wikipedia": "en:Shufersal",
+    "name": "שופרסל שלי",
+    "name:en": "Shufersal Sheli",
+    "name:he": "שופרסל שלי",
+    "name:ru": "Шуферсаль Шели",
+    "shop": "supermarket",
+    "website": "https://www.shufersal.co.il"
+  }
+},
+{
+  "type": "node",
+  "id": 950284102,
+  "lat": 32.0923454,
+  "lon": 34.7744449,
+  "tags": {
+    "brand": "AM:PM",
+    "brand:wikidata": "Q6891113",
+    "brand:wikipedia": "he:רשת AM:PM",
+    "name": "AM:PM",
+    "name:en": "AM:PM",
+    "name:he": "AM:PM",
+    "opening_hours": "24/7",
+    "shop": "supermarket",
+    "website": "https://www.ampm.co.il/"
+  }
+},
+{
+  "type": "node",
+  "id": 984578587,
+  "lat": 32.0575645,
+  "lon": 34.8112446,
+  "tags": {
+    "brand": "Mega",
+    "brand:wikidata": "Q12403907",
+    "brand:wikipedia": "he:מגה קמעונאות",
+    "name": "מגה בעיר",
+    "name:en": "Mega Ba'Ir",
+    "name:he": "מגה בעיר",
+    "name:ru": "Мега Ба'Ир",
+    "shop": "supermarket",
+    "website": "http://www.mega-bair.co.il/"
+  }
+},
+{
+  "type": "node",
+  "id": 987508212,
+  "lat": 32.1205569,
+  "lon": 34.8283941,
+  "tags": {
+    "brand": "Mega",
+    "brand:wikidata": "Q12403907",
+    "brand:wikipedia": "he:מגה קמעונאות",
+    "name": "מגה",
+    "name:en": "Mega",
+    "name:he": "מגה",
+    "name:ru": "Мега",
+    "shop": "supermarket",
+    "website": "https://www.mega.co.il"
+  }
+},
+{
+  "type": "node",
+  "id": 1013551690,
+  "lat": 32.0760500,
+  "lon": 34.7717648,
+  "tags": {
+    "brand": "AM:PM",
+    "brand:wikidata": "Q6891113",
+    "brand:wikipedia": "he:רשת AM:PM",
+    "name": "AM:PM",
+    "name:en": "AM:PM",
+    "name:he": "AM:PM",
+    "opening_hours": "24/7",
+    "shop": "supermarket",
+    "website": "https://www.ampm.co.il/"
+  }
+},
+{
+  "type": "node",
+  "id": 1065507428,
+  "lat": 32.0873279,
+  "lon": 34.7748488,
+  "tags": {
+    "brand": "Tiv Ta'am",
+    "brand:wikidata": "Q2903718",
+    "brand:wikipedia": "en:Tiv Ta'am",
+    "name": "טיב טעם",
+    "name:en": "Tiv Ta'am",
+    "name:he": "טיב טעם",
+    "name:ru": "Тив Та'ам",
+    "shop": "supermarket",
+    "website": "https://www.tivtaam.co.il"
+  }
+},
+{
+  "type": "node",
+  "id": 1065507449,
+  "lat": 32.0887315,
+  "lon": 34.7755440,
+  "tags": {
+    "brand": "ויקטורי",
+    "brand:wikidata": "Q6891113",
+    "brand:wikipedia": "he:רשת AM:PM",
+    "name": "ויקטורי",
+    "name:en": "Victory",
+    "name:he": "ויקטורי",
+    "opening_hours": "24/7",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 1065507453,
+  "lat": 32.0891310,
+  "lon": 34.7753436,
+  "tags": {
+    "name": "סופר יודה",
+    "name:en": "Super Yuda",
+    "name:he": "סופר יודה",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 1065507499,
+  "lat": 32.0868303,
+  "lon": 34.7747872,
+  "tags": {
+    "brand": "AM:PM",
+    "brand:wikidata": "Q6891113",
+    "brand:wikipedia": "he:רשת AM:PM",
+    "name": "AM:PM",
+    "name:en": "AM:PM",
+    "name:he": "AM:PM",
+    "opening_hours": "24/7",
+    "shop": "supermarket",
+    "website": "https://www.ampm.co.il/"
+  }
+},
+{
+  "type": "node",
+  "id": 1077311498,
+  "lat": 32.0819697,
+  "lon": 34.7739731,
+  "tags": {
+    "brand": "AM:PM",
+    "brand:wikidata": "Q6891113",
+    "brand:wikipedia": "he:רשת AM:PM",
+    "name": "AM:PM",
+    "name:en": "AM:PM",
+    "name:he": "AM:PM",
+    "shop": "supermarket",
+    "website": "https://www.ampm.co.il/"
+  }
+},
+{
+  "type": "node",
+  "id": 1102241554,
+  "lat": 32.1227080,
+  "lon": 34.8164584,
+  "tags": {
+    "brand": "Mega",
+    "brand:wikidata": "Q12403907",
+    "brand:wikipedia": "he:מגה קמעונאות",
+    "name": "מגה בעיר",
+    "name:en": "Mega Ba'Ir",
+    "name:he": "מגה בעיר",
+    "name:ru": "Мега Ба'Ир",
+    "shop": "supermarket",
+    "website": "http://www.mega-bair.co.il/"
+  }
+},
+{
+  "type": "node",
+  "id": 1102324018,
+  "lat": 32.1202452,
+  "lon": 34.8201593,
+  "tags": {
+    "brand": "Mega",
+    "brand:wikidata": "Q12403907",
+    "brand:wikipedia": "he:מגה קמעונאות",
+    "name": "מגה בעיר",
+    "name:en": "Mega Ba'Ir",
+    "name:he": "מגה בעיר",
+    "name:ru": "Мега Ба'Ир",
+    "shop": "supermarket",
+    "website": "http://www.mega-bair.co.il/"
+  }
+},
+{
+  "type": "node",
+  "id": 1104533478,
+  "lat": 32.1048814,
+  "lon": 34.7927543,
+  "tags": {
+    "brand": "AM:PM",
+    "brand:wikidata": "Q6891113",
+    "brand:wikipedia": "he:רשת AM:PM",
+    "name": "AM:PM",
+    "name:en": "AM:PM",
+    "name:he": "AM:PM",
+    "shop": "supermarket",
+    "website": "https://www.ampm.co.il/"
+  }
+},
+{
+  "type": "node",
+  "id": 1104562774,
+  "lat": 32.1117036,
+  "lon": 34.7963088,
+  "tags": {
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 1104596149,
+  "lat": 32.1118693,
+  "lon": 34.7976447,
+  "tags": {
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 1125973197,
+  "lat": 32.1174440,
+  "lon": 34.7977821,
+  "tags": {
+    "brand": "Shufersal",
+    "brand:wikidata": "Q4523181",
+    "brand:wikipedia": "en:Shufersal",
+    "name": "שופרסל",
+    "name:en": "Shufersal",
+    "name:he": "שופרסל",
+    "name:ru": "Шуферсаль",
+    "shop": "supermarket",
+    "website": "https://www.shufersal.co.il"
+  }
+},
+{
+  "type": "node",
+  "id": 1125973207,
+  "lat": 32.1204449,
+  "lon": 34.7999592,
+  "tags": {
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 1125973321,
+  "lat": 32.1192509,
+  "lon": 34.7960840,
+  "tags": {
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 1128628209,
+  "lat": 32.1131030,
+  "lon": 34.8421903,
+  "tags": {
+    "name": "רמי לוי",
+    "name:he": "רמי לוי",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 1152595878,
+  "lat": 32.1113103,
+  "lon": 34.8161070,
+  "tags": {
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 1168942587,
+  "lat": 32.0530847,
+  "lon": 34.8096742,
+  "tags": {
+    "brand": "Mega",
+    "brand:wikidata": "Q12403907",
+    "brand:wikipedia": "he:מגה קמעונאות",
+    "name": "מגה בעיר",
+    "name:en": "Mega Ba'Ir",
+    "name:he": "מגה בעיר",
+    "name:ru": "Мега Ба'Ир",
+    "shop": "supermarket",
+    "website": "http://www.mega-bair.co.il/"
+  }
+},
+{
+  "type": "node",
+  "id": 1171637826,
+  "lat": 32.1143305,
+  "lon": 34.8356769,
+  "tags": {
+    "brand": "Mega",
+    "brand:wikidata": "Q12403907",
+    "brand:wikipedia": "he:מגה קמעונאות",
+    "name": "מגה",
+    "name:en": "Mega",
+    "name:he": "מגה",
+    "name:ru": "Мега",
+    "shop": "supermarket",
+    "website": "https://www.mega.co.il"
+  }
+},
+{
+  "type": "node",
+  "id": 1171637828,
+  "lat": 32.1147033,
+  "lon": 34.8262421,
+  "tags": {
+    "addr:housenumber": "72",
+    "addr:street": "פנחס רוזן",
+    "brand": "Tiv Ta'am",
+    "brand:wikidata": "Q2903718",
+    "brand:wikipedia": "en:Tiv Ta'am",
+    "level": "1",
+    "name": "טיב טעם",
+    "name:en": "Tiv Ta'am",
+    "name:he": "טיב טעם",
+    "name:ru": "Тив Та'ам",
+    "opening_hours": "Mo-Su 08:00-23:00",
+    "shop": "supermarket",
+    "website": "https://www.tivtaam.co.il"
+  }
+},
+{
+  "type": "node",
+  "id": 1171637842,
+  "lat": 32.1147554,
+  "lon": 34.8257933,
+  "tags": {
+    "addr:city": "Tel Aviv - Yafo",
+    "addr:housenumber": "72",
+    "addr:street": "פנחס רוזן",
+    "level": "1",
+    "name": "ניצת הדובדבן",
+    "name:en": "Nitzat Hadoovdevan",
+    "name:he": "ניצת הדובדבן",
+    "organic": "yes",
+    "shop": "supermarket",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1187825688,
+  "lat": 32.0814254,
+  "lon": 34.7704626,
+  "tags": {
+    "brand": "Shufersal",
+    "brand:wikidata": "Q4523181",
+    "brand:wikipedia": "en:Shufersal",
+    "name": "שופרסל",
+    "name:en": "Shufersal",
+    "name:he": "שופרסל",
+    "name:ru": "Шуферсаль",
+    "shop": "supermarket",
+    "website": "https://www.shufersal.co.il"
+  }
+},
+{
+  "type": "node",
+  "id": 1212524617,
+  "lat": 32.1139530,
+  "lon": 34.8413330,
+  "tags": {
+    "atm": "yes",
+    "brand": "Tiv Ta'am",
+    "brand:wikidata": "Q2903718",
+    "brand:wikipedia": "en:Tiv Ta'am",
+    "name": "טיב טעם",
+    "name:en": "Tiv Ta'am",
+    "name:he": "טיב טעם",
+    "name:ru": "Тив Та'ам",
+    "shop": "supermarket",
+    "website": "https://www.tivtaam.co.il"
+  }
+},
+{
+  "type": "node",
+  "id": 1309308441,
+  "lat": 32.0942771,
+  "lon": 34.7984076,
+  "tags": {
+    "name": "טיפ טוב",
+    "name:en": "Tip Tov",
+    "name:he": "טיפ טוב",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 1419050295,
+  "lat": 32.0752574,
+  "lon": 34.7919866,
+  "tags": {
+    "addr:housename": "מגדלי עזריאלי",
+    "addr:housenumber": "132",
+    "addr:postcode": "67011",
+    "addr:street": "דרך מנחם בגין",
+    "air_conditioning": "yes",
+    "brand": "Shufersal",
+    "brand:wikidata": "Q4523181",
+    "brand:wikipedia": "en:Shufersal",
+    "level": "0",
+    "name": "שופרסל",
+    "name:ar": "شوبيرسال عزرائيلي",
+    "name:en": "Shufersal",
+    "name:he": "שופרסל",
+    "name:ru": "Шуферсаль",
+    "opening_hours": "Su-We 07:30-23:00; Th 07:30-23:59; Fr 07:30-15:30; Sa 20:45-22:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "shop": "supermarket",
+    "website": "https://www.shufersal.co.il",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1438109989,
+  "lat": 32.0748932,
+  "lon": 34.7821769,
+  "tags": {
+    "brand": "Mega",
+    "brand:wikidata": "Q12403907",
+    "brand:wikipedia": "he:מגה קמעונאות",
+    "name": "מגה בעיר",
+    "name:en": "Mega Ba'Ir",
+    "name:he": "מגה בעיר",
+    "name:ru": "Мега Ба'Ир",
+    "shop": "supermarket",
+    "website": "http://www.mega-bair.co.il/"
+  }
+},
+{
+  "type": "node",
+  "id": 1450724668,
+  "lat": 32.0669927,
+  "lon": 34.7816522,
+  "tags": {
+    "brand": "AM:PM",
+    "brand:wikidata": "Q6891113",
+    "brand:wikipedia": "he:רשת AM:PM",
+    "name": "AM:PM",
+    "name:en": "AM:PM",
+    "name:he": "AM:PM",
+    "opening_hours": "24/7",
+    "shop": "supermarket",
+    "website": "https://www.ampm.co.il/"
+  }
+},
+{
+  "type": "node",
+  "id": 1500184628,
+  "lat": 32.1253646,
+  "lon": 34.7983879,
+  "tags": {
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 1588349457,
+  "lat": 32.0367106,
+  "lon": 34.7611902,
+  "tags": {
+    "fixme": "position and name",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 1643304645,
+  "lat": 32.0811376,
+  "lon": 34.7815744,
+  "tags": {
+    "addr:city": "תל אביב-יפו",
+    "name": "סופﬧזול",
+    "name:en": "Superzol",
+    "name:he": "סופﬧזול",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 1643304661,
+  "lat": 32.0775365,
+  "lon": 34.7776410,
+  "tags": {
+    "brand": "AM:PM",
+    "brand:wikidata": "Q6891113",
+    "brand:wikipedia": "he:רשת AM:PM",
+    "name": "AM:PM",
+    "name:en": "AM:PM",
+    "name:he": "AM:PM",
+    "opening_hours": "24/7",
+    "shop": "supermarket",
+    "website": "https://www.ampm.co.il/"
+  }
+},
+{
+  "type": "node",
+  "id": 1644604311,
+  "lat": 32.0649132,
+  "lon": 34.7711251,
+  "tags": {
+    "addr:housenumber": "47",
+    "addr:street": "נחלת בנימין",
+    "brand": "Tiv Ta'am",
+    "brand:wikidata": "Q2903718",
+    "brand:wikipedia": "en:Tiv Ta'am",
+    "name": "טיב טעם",
+    "name:en": "Tiv Ta'am",
+    "name:he": "טיב טעם",
+    "name:ru": "Тив Та'ам",
+    "opening_hours": "Mo-Su 08:00-24:00",
+    "shop": "supermarket",
+    "website": "https://www.tivtaam.co.il",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1678949615,
+  "lat": 32.0649734,
+  "lon": 34.7886880,
+  "tags": {
+    "brand": "AM:PM",
+    "brand:wikidata": "Q6891113",
+    "brand:wikipedia": "he:רשת AM:PM",
+    "name": "AM:PM",
+    "name:en": "AM:PM",
+    "name:he": "AM:PM",
+    "opening_hours": "24/7",
+    "shop": "supermarket",
+    "website": "https://www.ampm.co.il/"
+  }
+},
+{
+  "type": "node",
+  "id": 1678949618,
+  "lat": 32.0697530,
+  "lon": 34.7830543,
+  "tags": {
+    "addr:housenumber": "91",
+    "addr:street": "החשמונאים",
+    "brand": "Tiv Ta'am",
+    "brand:wikidata": "Q2903718",
+    "brand:wikipedia": "en:Tiv Ta'am",
+    "name": "טיב טעם",
+    "name:en": "Tiv Ta'am",
+    "name:he": "טיב טעם",
+    "name:ru": "Тив Та'ам",
+    "opening_hours": "Mo-Su 08:00-24:00",
+    "shop": "supermarket",
+    "website": "https://www.tivtaam.co.il"
+  }
+},
+{
+  "type": "node",
+  "id": 1791415676,
+  "lat": 32.0814660,
+  "lon": 34.7855080,
+  "tags": {
+    "addr:housenumber": "12",
+    "addr:street": "לסר אורי",
+    "brand": "Mega",
+    "brand:wikidata": "Q12403907",
+    "brand:wikipedia": "he:מגה קמעונאות",
+    "fax": "+972 3 527 1543",
+    "name": "מגה בעיר",
+    "name:en": "Mega Ba'Ir",
+    "name:he": "מגה בעיר",
+    "name:ru": "Мега Ба'Ир",
+    "opening_hours": "Su-Tu 07:30-20:00; We-Th 07:30-21:00; Fr 07:00-14:45",
+    "phone": "+972 3 527 1269",
+    "shop": "supermarket",
+    "website": "http://www.mega-bair.co.il/"
+  }
+},
+{
+  "type": "node",
+  "id": 1791443176,
+  "lat": 32.0742121,
+  "lon": 34.7794244,
+  "tags": {
+    "brand": "Tiv Ta'am",
+    "brand:wikidata": "Q2903718",
+    "brand:wikipedia": "en:Tiv Ta'am",
+    "name": "טיב טעם",
+    "name:en": "Tiv Ta'am",
+    "name:he": "טיב טעם",
+    "name:ru": "Тив Та'ам",
+    "shop": "supermarket",
+    "website": "https://www.tivtaam.co.il"
+  }
+},
+{
+  "type": "node",
+  "id": 1988505037,
+  "lat": 32.0730128,
+  "lon": 34.7682250,
+  "tags": {
+    "addr:street": "בן יהודה",
+    "brand": "Tiv Ta'am",
+    "brand:wikidata": "Q2903718",
+    "brand:wikipedia": "en:Tiv Ta'am",
+    "name": "טיב טעם",
+    "name:en": "Tiv Ta'am",
+    "name:he": "טיב טעם",
+    "name:ru": "Тив Та'ам",
+    "opening_hours": "24/7",
+    "shop": "supermarket",
+    "website": "https://www.tivtaam.co.il",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1989338301,
+  "lat": 32.0693289,
+  "lon": 34.7727585,
+  "tags": {
+    "brand": "AM:PM",
+    "brand:wikidata": "Q6891113",
+    "brand:wikipedia": "he:רשת AM:PM",
+    "name": "AM:PM",
+    "name:en": "AM:PM",
+    "name:he": "AM:PM",
+    "shop": "supermarket",
+    "website": "https://www.ampm.co.il/"
+  }
+},
+{
+  "type": "node",
+  "id": 1989338322,
+  "lat": 32.0685016,
+  "lon": 34.7773504,
+  "tags": {
+    "brand": "AM:PM",
+    "brand:wikidata": "Q6891113",
+    "brand:wikipedia": "he:רשת AM:PM",
+    "name": "AM:PM",
+    "name:en": "AM:PM",
+    "name:he": "AM:PM",
+    "shop": "supermarket",
+    "website": "https://www.ampm.co.il/"
+  }
+},
+{
+  "type": "node",
+  "id": 2079194738,
+  "lat": 32.0551150,
+  "lon": 34.7672840,
+  "tags": {
+    "addr:housenumber": "55",
+    "addr:street": "שלמה",
+    "shop": "supermarket",
+    "source": "Tel Aviv municipality"
+  }
+},
+{
+  "type": "node",
+  "id": 2079194769,
+  "lat": 32.1128900,
+  "lon": 34.7986730,
+  "tags": {
+    "addr:housenumber": "56",
+    "addr:street": "אינשטיין",
+    "shop": "supermarket",
+    "source": "Tel Aviv municipality"
+  }
+},
+{
+  "type": "node",
+  "id": 2249328555,
+  "lat": 32.0714723,
+  "lon": 34.7801664,
+  "tags": {
+    "addr:housenumber": "10",
+    "addr:street": "מרמורק",
+    "brand": "Shufersal",
+    "brand:wikidata": "Q4523181",
+    "brand:wikipedia": "en:Shufersal",
+    "name": "שופרסל אקספרס",
+    "name:en": "Shufersal Express",
+    "name:he": "שופרסל אקספרס",
+    "name:ru": "Шуферсаль Экспресс",
+    "shop": "supermarket",
+    "website": "https://www.shufersal.co.il"
+  }
+},
+{
+  "type": "node",
+  "id": 2288503758,
+  "lat": 32.1075647,
+  "lon": 34.7976807,
+  "tags": {
+    "addr:housenumber": "15",
+    "addr:street": "ברודצקי",
+    "brand": "AM:PM",
+    "brand:wikidata": "Q6891113",
+    "brand:wikipedia": "he:רשת AM:PM",
+    "name": "AM:PM",
+    "name:en": "AM:PM",
+    "name:he": "AM:PM",
+    "shop": "supermarket",
+    "website": "https://www.ampm.co.il/"
+  }
+},
+{
+  "type": "node",
+  "id": 2288503761,
+  "lat": 32.1070413,
+  "lon": 34.7974349,
+  "tags": {
+    "name": "ניצת הדובדבן",
+    "name:en": "nitsat haduvdevan",
+    "name:he": "ניצת הדובדבן",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 2488604193,
+  "lat": 32.0860391,
+  "lon": 34.7792149,
+  "tags": {
+    "brand": "Shufersal",
+    "brand:wikidata": "Q4523181",
+    "brand:wikipedia": "en:Shufersal",
+    "name": "שופרסל",
+    "name:en": "Shufersal",
+    "name:he": "שופרסל",
+    "name:ru": "Шуферсаль",
+    "shop": "supermarket",
+    "website": "https://www.shufersal.co.il"
+  }
+},
+{
+  "type": "node",
+  "id": 2645120643,
+  "lat": 32.0659302,
+  "lon": 34.7958796,
+  "tags": {
+    "addr:city": "תל אביב",
+    "addr:housenumber": "9",
+    "addr:street": "שדרות ההשכלה",
+    "contact:website": "http://shelanoo.co.il/",
+    "name": "shelanoo",
+    "name:en": "shelanoo",
+    "name:he": "שלנו",
+    "operator": "שלנו - קואופרטיב כלכלי חברתי",
+    "shop": "supermarket",
+    "website": "http://shelanoo.co.il/?portfolio=%D7%94%D7%97%D7%A0%D7%95%D7%AA-%D7%A9%D7%9C%D7%A0%D7%95"
+  }
+},
+{
+  "type": "node",
+  "id": 2862959838,
+  "lat": 32.0572208,
+  "lon": 34.7683035,
+  "tags": {
+    "addr:housenumber": "15",
+    "addr:street": "פרנקל ידידיה",
+    "brand": "AM:PM",
+    "brand:wikidata": "Q6891113",
+    "brand:wikipedia": "he:רשת AM:PM",
+    "name": "AM:PM",
+    "name:en": "AM:PM",
+    "name:he": "AM:PM",
+    "opening_hours": "24/7",
+    "shop": "supermarket",
+    "website": "https://www.ampm.co.il/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2931878942,
+  "lat": 32.0404936,
+  "lon": 34.7656788,
+  "tags": {
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 2967584835,
+  "lat": 32.0711312,
+  "lon": 34.7653289,
+  "tags": {
+    "addr:city": "תל אביב-יפו",
+    "addr:housenumber": "28",
+    "addr:street": "הירקון",
+    "name": "סופר אל הים",
+    "name:en": "super al hayam",
+    "name:he": "סופר אל הים",
+    "payment:bitcoin": "yes",
+    "phone": "+972 3 5168751",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 3237102677,
+  "lat": 32.0624411,
+  "lon": 34.7734427,
+  "tags": {
+    "brand": "AM:PM",
+    "brand:wikidata": "Q6891113",
+    "brand:wikipedia": "he:רשת AM:PM",
+    "name": "AM:PM",
+    "name:en": "AM:PM",
+    "name:he": "AM:PM",
+    "opening_hours": "24/7",
+    "shop": "supermarket",
+    "website": "https://www.ampm.co.il/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3458644340,
+  "lat": 32.0883251,
+  "lon": 34.7825651,
+  "tags": {
+    "brand": "AM:PM",
+    "brand:wikidata": "Q6891113",
+    "brand:wikipedia": "he:רשת AM:PM",
+    "name": "AM:PM",
+    "name:en": "AM:PM",
+    "name:he": "AM:PM",
+    "opening_hours": "24/7",
+    "shop": "supermarket",
+    "website": "https://www.ampm.co.il/"
+  }
+},
+{
+  "type": "node",
+  "id": 3458644341,
+  "lat": 32.0849382,
+  "lon": 34.7815239,
+  "tags": {
+    "brand": "AM:PM",
+    "brand:wikidata": "Q6891113",
+    "brand:wikipedia": "he:רשת AM:PM",
+    "name": "AM:PM",
+    "name:en": "AM:PM",
+    "name:he": "AM:PM",
+    "opening_hours": "24/7",
+    "shop": "supermarket",
+    "website": "https://www.ampm.co.il/"
+  }
+},
+{
+  "type": "node",
+  "id": 3458644342,
+  "lat": 32.0718768,
+  "lon": 34.7735447,
+  "tags": {
+    "brand": "AM:PM",
+    "brand:wikidata": "Q6891113",
+    "brand:wikipedia": "he:רשת AM:PM",
+    "name": "AM:PM",
+    "name:en": "AM:PM",
+    "name:he": "AM:PM",
+    "opening_hours": "24/7",
+    "shop": "supermarket",
+    "website": "https://www.ampm.co.il/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3458644343,
+  "lat": 32.0795744,
+  "lon": 34.7693360,
+  "tags": {
+    "atm": "yes",
+    "brand": "AM:PM",
+    "brand:wikidata": "Q6891113",
+    "brand:wikipedia": "he:רשת AM:PM",
+    "name": "AM:PM",
+    "name:en": "AM:PM",
+    "name:he": "AM:PM",
+    "opening_hours": "24/7",
+    "shop": "supermarket",
+    "website": "https://www.ampm.co.il/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3461420324,
+  "lat": 32.0938183,
+  "lon": 34.7920483,
+  "tags": {
+    "addr:city": "תל אביב-יפו",
+    "brand": "Mega",
+    "brand:wikidata": "Q12403907",
+    "brand:wikipedia": "he:מגה קמעונאות",
+    "name": "מגה בעיר",
+    "name:en": "Mega Ba'Ir",
+    "name:he": "מגה בעיר",
+    "name:ru": "Мега Ба'Ир",
+    "shop": "supermarket",
+    "website": "http://www.mega-bair.co.il/"
+  }
+},
+{
+  "type": "node",
+  "id": 3461420325,
+  "lat": 32.0907480,
+  "lon": 34.7890275,
+  "tags": {
+    "brand": "Mega",
+    "brand:wikidata": "Q12403907",
+    "brand:wikipedia": "he:מגה קמעונאות",
+    "name": "מגה בעיר",
+    "name:en": "Mega Ba'Ir",
+    "name:he": "מגה בעיר",
+    "name:ru": "Мега Ба'Ир",
+    "shop": "supermarket",
+    "website": "http://www.mega-bair.co.il/"
+  }
+},
+{
+  "type": "node",
+  "id": 3610419430,
+  "lat": 32.0644004,
+  "lon": 34.7694089,
+  "tags": {
+    "brand": "AM:PM",
+    "brand:wikidata": "Q6891113",
+    "brand:wikipedia": "he:רשת AM:PM",
+    "name": "AM:PM",
+    "name:en": "AM:PM",
+    "name:he": "AM:PM",
+    "opening_hours": "24/7",
+    "shop": "supermarket",
+    "website": "https://www.ampm.co.il/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4108510788,
+  "lat": 32.0750026,
+  "lon": 34.7711197,
+  "tags": {
+    "addr:city": "תל אביב-יפו",
+    "addr:housenumber": "28",
+    "addr:street": "פינסקר",
+    "name": "מינימרקט שלנו",
+    "name:en": "MiniMarket Shelanu",
+    "name:he": "מינימרקט שלנו",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 4108561816,
+  "lat": 32.0660832,
+  "lon": 34.7765232,
+  "tags": {
+    "addr:city": "Tel Aviv",
+    "addr:housenumber": "40",
+    "addr:street": "מזא''ה",
+    "brand": "Tiv Ta'am",
+    "brand:wikidata": "Q2903718",
+    "brand:wikipedia": "en:Tiv Ta'am",
+    "name": "טיב טעם",
+    "name:en": "Tiv Ta'am",
+    "name:he": "טיב טעם",
+    "name:ru": "Тив Та'ам",
+    "opening_hours": "24/7",
+    "shop": "supermarket",
+    "website": "https://www.tivtaam.co.il"
+  }
+},
+{
+  "type": "node",
+  "id": 4111983032,
+  "lat": 32.0730567,
+  "lon": 34.7820423,
+  "tags": {
+    "brand": "AM:PM",
+    "brand:wikidata": "Q6891113",
+    "brand:wikipedia": "he:רשת AM:PM",
+    "name": "AM:PM",
+    "name:en": "AM:PM",
+    "name:he": "AM:PM",
+    "shop": "supermarket",
+    "website": "https://www.ampm.co.il/"
+  }
+},
+{
+  "type": "node",
+  "id": 4313243892,
+  "lat": 32.0538863,
+  "lon": 34.7649389,
+  "tags": {
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 4427859989,
+  "lat": 32.0753662,
+  "lon": 34.7681728,
+  "tags": {
+    "name": "Green Way",
+    "name:en": "Green Way",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 4549181492,
+  "lat": 32.0564268,
+  "lon": 34.7571624,
+  "tags": {
+    "name:en": "supermarket",
+    "opening_hours": "24/7",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 4570441513,
+  "lat": 32.0560933,
+  "lon": 34.7721499,
+  "tags": {
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 4570441516,
+  "lat": 32.0570313,
+  "lon": 34.7724091,
+  "tags": {
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 4790815228,
+  "lat": 32.0672143,
+  "lon": 34.7942901,
+  "tags": {
+    "brand": "Osher Ad",
+    "name": "אושר עד",
+    "name:en": "Osher Ad",
+    "name:he": "אושר עד",
+    "name:ru": "Ошер Ад",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 5076081316,
+  "lat": 32.0613314,
+  "lon": 34.7756227,
+  "tags": {
+    "addr:city": "תל אביב",
+    "addr:housenumber": "11",
+    "addr:street": "החשמל",
+    "brand": "AM:PM",
+    "brand:wikidata": "Q6891113",
+    "brand:wikipedia": "he:רשת AM:PM",
+    "name": "AM:PM",
+    "name:en": "AM:PM",
+    "name:he": "AM:PM",
+    "opening_hours": "24/7",
+    "phone": "+972 73 2292353",
+    "shop": "supermarket",
+    "source": "https://www.ampm.co.il/map",
+    "website": "https://www.ampm.co.il/"
+  }
+},
+{
+  "type": "node",
+  "id": 5195440521,
+  "lat": 32.0851144,
+  "lon": 34.7726907,
+  "tags": {
+    "addr:city:en": "Tel Aviv",
+    "name": "7/24 магазин продукты вино шампунь",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 5245475874,
+  "lat": 32.0840061,
+  "lon": 34.7889991,
+  "tags": {
+    "addr:city": "תל אביב-יפו",
+    "addr:city:en": "Tel Aviv",
+    "name": "ניו מרקט",
+    "name:he": "ניו מרקט",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 5260671121,
+  "lat": 32.0887811,
+  "lon": 34.7755539,
+  "tags": {
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 5594846614,
+  "lat": 32.0610173,
+  "lon": 34.7726721,
+  "tags": {
+    "addr:city": "Tel Aviv",
+    "addr:housenumber": "85",
+    "addr:street": "Nahalat Binyamin",
+    "name": "AM:PM",
+    "name:en": "AM:PM",
+    "opening_hours": "24/7",
+    "shop": "supermarket",
+    "website": "https://www.ampm.co.il/"
+  }
+},
+{
+  "type": "node",
+  "id": 5597061111,
+  "lat": 32.0654994,
+  "lon": 34.7936988,
+  "tags": {
+    "name": "‏שופרסל",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 5599271225,
+  "lat": 32.0623639,
+  "lon": 34.7916017,
+  "tags": {
+    "name": "‏יוחננוף",
+    "name:ar": "يوحاننوف",
+    "name:en": "yohananov",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 5605064590,
+  "lat": 32.0535073,
+  "lon": 34.7774236,
+  "tags": {
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 5605064594,
+  "lat": 32.0533662,
+  "lon": 34.7775168,
+  "tags": {
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 5639971847,
+  "lat": 32.0549785,
+  "lon": 34.7757019,
+  "tags": {
+    "brand": "City Market",
+    "brand:wikidata": "Q5123299",
+    "brand:wikipedia": "en:City Market (US grocery store chain)",
+    "name": "City Market",
+    "name:en": "City Market",
+    "shop": "supermarket",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5700221654,
+  "lat": 32.0687732,
+  "lon": 34.7828479,
+  "tags": {
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 5773162304,
+  "lat": 32.1146261,
+  "lon": 34.7911619,
+  "tags": {
+    "name": "שופרסל אקספרס",
+    "name:en": "Shufersal express",
+    "name:he": "שופרסל אקספרס",
+    "name:ru": "Шуферсаль экспресс",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 6005551686,
+  "lat": 32.0711269,
+  "lon": 34.7708152,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "בית לחם",
+    "name": "Shuk Bezalel",
+    "name:en": "Shuk Bezalel",
+    "opening_hours": "Su-Fr 08:30-18:00",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 6286327186,
+  "lat": 32.0940221,
+  "lon": 34.7918338,
+  "tags": {
+    "addr:housenumber": "69",
+    "addr:street": "יהודה המכבי",
+    "name": "טיב טעם",
+    "name:en": "Tiv-Taam",
+    "name:he": "טיב טעם",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 6401692655,
+  "lat": 32.0814268,
+  "lon": 34.7834972,
+  "tags": {
+    "addr:city": "תל אביב-יפו",
+    "addr:housenumber": "2",
+    "addr:street": "גליצנשטיין",
+    "name": "מינימרקט לינוי",
+    "name:he": "מינימרקט לינוי",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 6507151892,
+  "lat": 32.0762749,
+  "lon": 34.7682513,
+  "tags": {
+    "name": "סופר יודה",
+    "name:he": "סופר יודה",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 6535628441,
+  "lat": 32.0771672,
+  "lon": 34.7695160,
+  "tags": {
+    "name": "Super Yuda",
+    "name:en": "Super Yuda",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 6538016702,
+  "lat": 32.0770237,
+  "lon": 34.7715719,
+  "tags": {
+    "name": "Supermarket",
+    "name:en": "Supermarket",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 6975006460,
+  "lat": 32.0628273,
+  "lon": 34.7766883,
+  "tags": {
+    "addr:city": "Tel Aviv-Yafo",
+    "addr:housenumber": "15",
+    "addr:street": "Mikve Israel St",
+    "air_conditioning": "yes",
+    "name": "Berlin Levontin",
+    "name:en": "Berlin Levontin",
+    "opening_hours": "24/7",
+    "payment:american_express": "yes",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+972 03 9743666",
+    "shop": "supermarket",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6996551727,
+  "lat": 32.0736055,
+  "lon": 34.7978679,
+  "tags": {
+    "name": "יינות ביתן",
+    "name:en": "Yeinot Bitan",
+    "name:he": "יינות ביתן",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 7160499225,
+  "lat": 32.0471297,
+  "lon": 34.7996196,
+  "tags": {
+    "opening_hours": "24/7",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 8333411060,
+  "lat": 32.0974305,
+  "lon": 34.7985813,
+  "tags": {
+    "addr:city": "תל אביב-יפו",
+    "addr:housenumber": "15",
+    "addr:street": "תוספתא",
+    "name": "שופרסל אקספרס",
+    "name:en": "Shufersal Express",
+    "name:he": "שופרסל אקספרס",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 8537137957,
+  "lat": 32.0576407,
+  "lon": 34.7645220,
+  "tags": {
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 8537137960,
+  "lat": 32.0550296,
+  "lon": 34.7667273,
+  "tags": {
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 8537137963,
+  "lat": 32.0563278,
+  "lon": 34.7696775,
+  "tags": {
+    "name": "שופרסל אקספרס",
+    "name:en": "Shupersal Express",
+    "name:he": "שופרסל אקספרס",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "way",
+  "id": 149733471,
+  "center": {
+    "lat": 32.0745470,
+    "lon": 34.7682923
+  },
+  "nodes": [
+    1626886404,
+    1626886854,
+    1626886863,
+    1626886427,
+    1626886404
+  ],
+  "tags": {
+    "building": "commercial",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "way",
+  "id": 267623002,
+  "center": {
+    "lat": 32.0465558,
+    "lon": 34.8045671
+  },
+  "nodes": [
+    2730662649,
+    2730662653,
+    2730662661,
+    2730662662,
+    2730662677,
+    2730662675,
+    2730662649
+  ],
+  "tags": {
+    "building": "yes",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "way",
+  "id": 684776797,
+  "center": {
+    "lat": 32.0376673,
+    "lon": 34.7756815
+  },
+  "nodes": [
+    6416170161,
+    6416170120,
+    6416170160,
+    6416170159,
+    6416170158,
+    6416170161
+  ],
+  "tags": {
+    "addr:housenumber": "112",
+    "addr:street": "בן צבי",
+    "brand": "יוחננוך",
+    "brand:en": "Yochananof",
+    "brand:he": "יוחננוך",
+    "building": "supermarket",
+    "contact:phone": "+972768176390",
+    "contact:website": "http://yochananof.co.il/",
+    "fixme": "shape is inaccurate",
+    "name": "יחננוף - צומת חולון",
+    "name:en": "Yochananof - Holon Junction",
+    "name:he": "יחננוף - צומת חולון",
+    "opening_hours": "Mo-Su 08:00-22:00; Fr 07:00-15:00; Sa off",
+    "shop": "supermarket",
+    "source": "Tel Aviv municipality"
+  }
+}
+
+  ]
+}
