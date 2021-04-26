@@ -9,11 +9,12 @@ import java.time.LocalDateTime;
 
 
 @ToString
+@AllArgsConstructor
 @NoArgsConstructor
 @Data
 @Entity
 @Table(name="drivers")
-@DynamicUpdate
+@Builder
 public class Driver {
 
     @Id

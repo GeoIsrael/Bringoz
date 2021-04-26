@@ -1,7 +1,7 @@
 package com.utils;
 
 
-import com.app.dao.MarketRepository;
+import com.app.dao.PointRepository;
 import com.app.model.Point;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.utils.models.Markets;
@@ -21,9 +21,11 @@ public class JsonLoader {
     @Autowired
     RouteGenerator routeGenerator;
 
+    @Autowired
+    DriverGenerator driverGenerator;
 
     @Autowired
-    MarketRepository marketRepository;
+    PointRepository pointRepository;
     public static List<Point> points = new ArrayList<>();
 
     @EventListener(ApplicationReadyEvent.class)
@@ -44,7 +46,9 @@ public class JsonLoader {
             }
         });
 
-        points.forEach(p -> marketRepository.save(p));
+        points.forEach(p -> pointRepository.save(p));
+
+        driverGenerator.generateDrivers();
 
         routeGenerator.generateRoute();
 

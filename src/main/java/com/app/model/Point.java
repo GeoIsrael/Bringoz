@@ -1,11 +1,9 @@
-package com.drivers.model;
+package com.app.model;
 
 
 import lombok.Builder;
 import lombok.Data;
-import lombok.NoArgsConstructor;
 import lombok.ToString;
-import org.hibernate.annotations.DynamicUpdate;
 
 import javax.persistence.*;
 
@@ -17,7 +15,7 @@ import javax.persistence.*;
 public class Point {
 
     @Id
-    @GeneratedValue(strategy= GenerationType.AUTO)
+    @GeneratedValue(strategy= GenerationType.IDENTITY)
     Long id;
     @Column(name="OSMID")
     Long OsmMarketId;
